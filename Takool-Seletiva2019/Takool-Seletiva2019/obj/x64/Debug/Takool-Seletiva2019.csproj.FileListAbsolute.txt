@@ -1,0 +1,17 @@
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\x64\Debug\Takool-Seletiva2019.exe.config
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\x64\Debug\Takool-Seletiva2019.exe
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\x64\Debug\Takool-Seletiva2019.pdb
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\x64\Debug\EntityFramework.dll
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\x64\Debug\EntityFramework.xml
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\x64\Debug\Takool-Seletiva2019.csproj.AssemblyReference.cache
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\x64\Debug\Takool_Seletiva2019.AutentificationPage.resources
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\x64\Debug\Takool_Seletiva2019.Properties.Resources.resources
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\x64\Debug\Takool-Seletiva2019.csproj.GenerateResource.cache
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\x64\Debug\Takool-Seletiva2019.csproj.CoreCompileInputs.cache
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\x64\Debug\Takool-Seletiva2019.csproj.CopyComplete
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\x64\Debug\Takool-Seletiva2019.exe
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\x64\Debug\Takool-Seletiva2019.pdb
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\x64\Debug\Takool_Seletiva2019.SingUpPage.resources
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\x64\Debug\Takool_Seletiva2019.HomePage.resources

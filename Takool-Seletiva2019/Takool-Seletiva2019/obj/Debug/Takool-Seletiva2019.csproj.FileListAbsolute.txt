@@ -1,0 +1,15 @@
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\Debug\Takool-Seletiva2019.exe.config
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\Debug\Takool-Seletiva2019.exe
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\Debug\Takool-Seletiva2019.pdb
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\Debug\EntityFramework.dll
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\Debug\EntityFramework.xml
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\Debug\Takool-Seletiva2019.csproj.AssemblyReference.cache
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\Debug\Takool_Seletiva2019.AutentificationPage.resources
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\Debug\Takool_Seletiva2019.Properties.Resources.resources
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\Debug\Takool-Seletiva2019.csproj.GenerateResource.cache
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\Debug\Takool-Seletiva2019.csproj.CoreCompileInputs.cache
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\Debug\Takool-Seletiva2019.csproj.CopyComplete
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\Debug\Takool-Seletiva2019.exe
+C:\Users\enzoq\Desktop\Treinamento#09\Takool-Seletiva2019\Takool-Seletiva2019\obj\Debug\Takool-Seletiva2019.pdb
