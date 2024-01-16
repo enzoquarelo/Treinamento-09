@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="873c7d4c03ee4b59a2e91f53211911a4" Name="Diagram1">
+        <EntityTypeShape EntityType="Sessao5Model.Comentario" Width="1.5" PointX="8.25" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sessao5Model.Jogadore" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sessao5Model.Jogo" Width="1.5" PointX="6" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sessao5Model.Notificaco" Width="1.5" PointX="3" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sessao5Model.NotificacoesUsuario" Width="1.5" PointX="5.25" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sessao5Model.Posico" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sessao5Model.Rodada" Width="1.5" PointX="3.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sessao5Model.Seleco" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sessao5Model.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sessao5Model.Usuario" Width="1.5" PointX="3" PointY="15.5" IsExpanded="true" />
+        <AssociationConnector Association="Sessao5Model.FK_Comentario_Jogos" ManuallyRouted="false" />
+        <AssociationConnector Association="Sessao5Model.FK_Comentario_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="Sessao5Model.FK_Jogadores_Posicoes" ManuallyRouted="false" />
+        <AssociationConnector Association="Sessao5Model.FK_Jogadores_Selecoes" ManuallyRouted="false" />
+        <AssociationConnector Association="Sessao5Model.FK_Jogos_Rodadas" ManuallyRouted="false" />
+        <AssociationConnector Association="Sessao5Model.FK_Jogos_Selecoes" ManuallyRouted="false" />
+        <AssociationConnector Association="Sessao5Model.FK_Jogos_Selecoes1" ManuallyRouted="false" />
+        <AssociationConnector Association="Sessao5Model.FK_Notificacoes_Selecoes" ManuallyRouted="false" />
+        <AssociationConnector Association="Sessao5Model.FK_NotificacoesUsuarios_Notificacoes" ManuallyRouted="false" />
+        <AssociationConnector Association="Sessao5Model.FK_NotificacoesUsuarios_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="Sessao5Model.FK_Usuarios_Selecoes" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

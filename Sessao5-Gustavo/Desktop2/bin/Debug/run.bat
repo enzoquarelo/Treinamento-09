@@ -1,0 +1,1 @@
+SQLCMD -E -S .\SQLEXPRESS /d master -i "script.sql" >> execucao.log
